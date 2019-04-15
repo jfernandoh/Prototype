@@ -1,0 +1,41 @@
+.main-container {
+    padding-top: 20px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.nav-background {
+    background: #eeeeee;
+}
+
+.nav-content {
+    display: inline-grid;
+    text-align: left;
+}
+
+.circle {
+    background: #fff;
+    color: #000;
+    border-radius: 100px;
+    height: 40px;
+    font-weight: bold;
+    width: 40px;
+    display: table;
+}
+
+.circle p {
+    font-size: 20px;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.div-formulario {
+    background: #fff;
+    padding: 20px;
+}
